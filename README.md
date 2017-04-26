@@ -1,5 +1,5 @@
 # AgeFraction
-Age as a fraction with Go + QT
+Age as a fraction with Go + QT  
 You can save dates and set a favorite for showing when the app opens.
 
 # Install
